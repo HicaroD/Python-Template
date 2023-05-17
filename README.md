@@ -4,7 +4,7 @@ My Python project configured with pre-commit, black, pylint, flake8 and etc.
 
 ## Setting up the project
 
-1. Pre-commit
+1. `pre-commit`
 
     1.1. Install `pre-commit`
 
