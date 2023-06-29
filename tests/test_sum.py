@@ -1,5 +1,5 @@
-from main import sum
 from random import randint
+from main import sum
 
 
 def test_sum():
